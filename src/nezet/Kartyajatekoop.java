@@ -1,7 +1,6 @@
 
-package kartyajatekoop;
+package nezet;
 
-import nezet.*;
 import kartyajatekoop.KartyaTrukk;
 
 

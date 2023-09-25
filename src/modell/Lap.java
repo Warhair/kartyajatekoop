@@ -1,7 +1,5 @@
 
-package kartyajatekoop;
-
-
+package modell;
 
 
 public class Lap {

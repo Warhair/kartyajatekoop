@@ -1,4 +1,5 @@
-package kartyajatekoop;
+package modell;
+
 
 public class Pakli {
     private Lap[] pakli;
